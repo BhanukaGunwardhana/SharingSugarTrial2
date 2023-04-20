@@ -9,6 +9,5 @@
     <mapping directory="$PROJECT_DIR$/MicroServices/AuthenticationService" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/MicroServices/CentralDataBaseService" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/MicroServices/UserService" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/git-localconfig-repo" vcs="Git" />
   </component>
 </project>
