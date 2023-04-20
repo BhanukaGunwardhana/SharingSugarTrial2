@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19286729-459c-4456-aeaa-0e8e3229854f" name="Changes" comment="initial commit">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreServices/ApiGateWay" beforeDir="false" afterPath="$PROJECT_DIR$/CoreServices/ApiGateWay" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreServices/ApiGateWay/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CoreServices/ApiGateWay/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreServices/ApiGateWay/src/main/java/com/sharingsugar/apigateway/ApiGateWayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreServices/ApiGateWay/src/main/java/com/sharingsugar/apigateway/ApiGateWayApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreServices/ApiGateWay/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/CoreServices/ApiGateWay/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroServices/AuthenticationService" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServices/AuthenticationService" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroServices/AuthenticationService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServices/AuthenticationService/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroServices/AuthenticationService/src/main/java/com/sharingsugar/authenticationservice/application/Configuration/UserInfoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServices/AuthenticationService/src/main/java/com/sharingsugar/authenticationservice/application/Configuration/UserInfoService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroServices/AuthenticationService/src/main/java/com/sharingsugar/authenticationservice/application/Controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServices/AuthenticationService/src/main/java/com/sharingsugar/authenticationservice/application/Controller/AuthController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroServices/AuthenticationService/src/main/java/com/sharingsugar/authenticationservice/model/Beans/FeignProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServices/AuthenticationService/src/main/java/com/sharingsugar/authenticationservice/model/Beans/FeignProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroServices/AuthenticationService/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServices/AuthenticationService/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroServices/CentralDataBaseService" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServices/CentralDataBaseService" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroServices/CentralDataBaseService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServices/CentralDataBaseService/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroServices/CentralDataBaseService/src/main/java/com/sharingsugar/centraldatabaseservice/application/Controller/MasterDataController.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServices/CentralDataBaseService/src/main/java/com/sharingsugar/centraldatabaseservice/application/Controller/MasterDataController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroServices/CentralDataBaseService/src/main/java/com/sharingsugar/centraldatabaseservice/application/Controller/UserDataController.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServices/CentralDataBaseService/src/main/java/com/sharingsugar/centraldatabaseservice/application/Controller/UserDataController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroServices/CentralDataBaseService/src/main/java/com/sharingsugar/centraldatabaseservice/application/Request/UserDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServices/CentralDataBaseService/src/main/java/com/sharingsugar/centraldatabaseservice/application/Request/UserDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroServices/CentralDataBaseService/src/main/java/com/sharingsugar/centraldatabaseservice/model/Bean/FeignProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServices/CentralDataBaseService/src/main/java/com/sharingsugar/centraldatabaseservice/model/Bean/FeignProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroServices/CentralDataBaseService/src/main/java/com/sharingsugar/centraldatabaseservice/model/Service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServices/CentralDataBaseService/src/main/java/com/sharingsugar/centraldatabaseservice/model/Service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroServices/CentralDataBaseService/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServices/CentralDataBaseService/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="19286729-459c-4456-aeaa-0e8e3229854f" name="Changes" comment="initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,13 +19,23 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/CoreServices/ApiGateWay" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="workspaceImportEnabled" value="true" />
@@ -79,10 +68,10 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;6ee1f943ab4b470431cbe9e566879311&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;b94f62f2620702c2933c150d894e6a9a&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -158,6 +147,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Database Script.data.sql" />
+        <item itemvalue="Database Script.data.sql" />
       </list>
     </recent_temporary>
   </component>
@@ -188,6 +178,7 @@
       <workItem from="1681912594143" duration="5616000" />
       <workItem from="1681954725929" duration="7208000" />
       <workItem from="1681967294859" duration="6917000" />
+      <workItem from="1681980801866" duration="1536000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1681882611962</created>
@@ -196,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681882611962</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial commit">
+      <created>1681982045981</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681982045981</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
