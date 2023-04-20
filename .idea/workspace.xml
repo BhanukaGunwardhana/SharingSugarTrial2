@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="19286729-459c-4456-aeaa-0e8e3229854f" name="Changes" comment="initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreServices/ApiGateWay" beforeDir="false" afterPath="$PROJECT_DIR$/CoreServices/ApiGateWay" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreServices/ApiGateWay/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CoreServices/ApiGateWay/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreServices/ApiGateWay/src/main/java/com/sharingsugar/apigateway/ApiGateWayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreServices/ApiGateWay/src/main/java/com/sharingsugar/apigateway/ApiGateWayApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreServices/ApiGateWay/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/CoreServices/ApiGateWay/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServices/AuthenticationService" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServices/AuthenticationService" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServices/AuthenticationService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServices/AuthenticationService/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServices/AuthenticationService/src/main/java/com/sharingsugar/authenticationservice/application/Configuration/UserInfoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServices/AuthenticationService/src/main/java/com/sharingsugar/authenticationservice/application/Configuration/UserInfoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServices/AuthenticationService/src/main/java/com/sharingsugar/authenticationservice/application/Controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServices/AuthenticationService/src/main/java/com/sharingsugar/authenticationservice/application/Controller/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServices/AuthenticationService/src/main/java/com/sharingsugar/authenticationservice/model/Beans/FeignProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServices/AuthenticationService/src/main/java/com/sharingsugar/authenticationservice/model/Beans/FeignProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServices/AuthenticationService/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServices/AuthenticationService/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServices/CentralDataBaseService" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServices/CentralDataBaseService" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServices/CentralDataBaseService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServices/CentralDataBaseService/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServices/CentralDataBaseService/src/main/java/com/sharingsugar/centraldatabaseservice/application/Controller/MasterDataController.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServices/CentralDataBaseService/src/main/java/com/sharingsugar/centraldatabaseservice/application/Controller/MasterDataController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServices/CentralDataBaseService/src/main/java/com/sharingsugar/centraldatabaseservice/application/Controller/UserDataController.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServices/CentralDataBaseService/src/main/java/com/sharingsugar/centraldatabaseservice/application/Controller/UserDataController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServices/CentralDataBaseService/src/main/java/com/sharingsugar/centraldatabaseservice/application/Request/UserDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServices/CentralDataBaseService/src/main/java/com/sharingsugar/centraldatabaseservice/application/Request/UserDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServices/CentralDataBaseService/src/main/java/com/sharingsugar/centraldatabaseservice/model/Bean/FeignProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServices/CentralDataBaseService/src/main/java/com/sharingsugar/centraldatabaseservice/model/Bean/FeignProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServices/CentralDataBaseService/src/main/java/com/sharingsugar/centraldatabaseservice/model/Service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServices/CentralDataBaseService/src/main/java/com/sharingsugar/centraldatabaseservice/model/Service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServices/CentralDataBaseService/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServices/CentralDataBaseService/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/CoreServices/ApiGateWay" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2O9XAMRlpItIerTza3kxgmDwP6V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/BooleanLabs/SharingSugarProjects/SharingSugarV1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;6ee1f943ab4b470431cbe9e566879311&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ],
+    &quot;RunConfigurationTargetLRU&quot;: [
+      &quot;50af119e-7e59-45eb-8cf2-4f6cbc5e16f9&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sharingsugar.apigateway.model.Beans" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ApiGateWayApplication">
+    <configuration name="data.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/MicroServices/CentralDataBaseService/src/main/resources/data.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="50af119e-7e59-45eb-8cf2-4f6cbc5e16f9" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ApiGateWayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ApiGateWay" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sharingsugar.apigateway.ApiGateWayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthenticationServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="AuthenticationService" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sharingsugar.authenticationservice.AuthenticationServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CentralDataBaseServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="CentralDataBaseService" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sharingsugar.centraldatabaseservice.CentralDataBaseServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigurationServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ConfigurationServer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sharingsugar.configurationserver.ConfigurationServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sharingsugar.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaNamingServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="EurekaNamingServer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sharingsugar.eurekanamingserver.EurekaNamingServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="UserService" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sharingsugar.userservice.UserServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Database Script.data.sql" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19286729-459c-4456-aeaa-0e8e3229854f" name="Changes" comment="" />
+      <created>1680973627900</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680973627900</updated>
+      <workItem from="1680973629460" duration="5379000" />
+      <workItem from="1680980781790" duration="2263000" />
+      <workItem from="1681011065332" duration="3117000" />
+      <workItem from="1681014982962" duration="7125000" />
+      <workItem from="1681024889054" duration="2542000" />
+      <workItem from="1681176972890" duration="19608000" />
+      <workItem from="1681208327899" duration="3087000" />
+      <workItem from="1681264572998" duration="3359000" />
+      <workItem from="1681274591539" duration="6605000" />
+      <workItem from="1681283263900" duration="1816000" />
+      <workItem from="1681287970413" duration="47000" />
+      <workItem from="1681288082928" duration="10849000" />
+      <workItem from="1681720485480" duration="5945000" />
+      <workItem from="1681880569506" duration="5380000" />
+      <workItem from="1681892261815" duration="863000" />
+      <workItem from="1681894263312" duration="11772000" />
+      <workItem from="1681912594143" duration="5616000" />
+      <workItem from="1681954725929" duration="7208000" />
+      <workItem from="1681967294859" duration="6917000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1681882611962</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681882611962</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+</project>

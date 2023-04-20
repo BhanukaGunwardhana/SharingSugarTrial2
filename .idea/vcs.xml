@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CoreServices/ApiGateWay" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CoreServices/AuthenticationService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CoreServices/ConfigurationServer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CoreServices/EurekaNamingServer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MicroServices/AuthenticationService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MicroServices/CentralDataBaseService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MicroServices/UserService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/git-localconfig-repo" vcs="Git" />
+  </component>
+</project>

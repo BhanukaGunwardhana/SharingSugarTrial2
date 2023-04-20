@@ -1,0 +1,10 @@
+#spring:
+#  cloud:
+#    gateway:
+#      routes:
+#        - id: AuthenticationService
+#          uri: lb://AUTHENTICATIONSERVICE
+#          predicates:
+#            - Path=/api/auth/**
+#          filters:
+#            - AuthenticationFilter
